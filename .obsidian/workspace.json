@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "0342aa04337254a2",
+    "id": "c9d6860b9702f563",
     "type": "split",
     "children": [
       {
-        "id": "02abfd9cc7ad10a5",
+        "id": "5129410700692b76",
         "type": "tabs",
         "children": [
           {
-            "id": "f85d5454774f58da",
+            "id": "26d0e45adcf0c8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-16.md",
+                "file": "MyNotes/2026-03-16.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "39074bf936bf5eb8",
+    "id": "ee25e269cd82c7c6",
     "type": "split",
     "children": [
       {
-        "id": "1a6ce7a698318d43",
+        "id": "20cd461e58a43a3e",
         "type": "tabs",
         "children": [
           {
-            "id": "e47eb1396bc99cd7",
+            "id": "72da5c4859e82e74",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "a6183d9c6873bc0b",
+            "id": "c5dfeecc1af798a4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "1afb25f641de0459",
+            "id": "aae7a65f2cdf0368",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9f161be4a8a2b528",
+    "id": "78a6b565f4990a0a",
     "type": "split",
     "children": [
       {
-        "id": "e844043e0b843a47",
+        "id": "740a0a534ba49be3",
         "type": "tabs",
         "children": [
           {
-            "id": "d05da31e09eb9920",
+            "id": "c5e9c3711508df19",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-03-15.md",
+                "file": "MyNotes/2026-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-03-15 的反向链接列表"
+              "title": "2026-03-16 的反向链接列表"
             }
           },
           {
-            "id": "b9e5d13416e2ee03",
+            "id": "4f8646a1cca39021",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-03-15.md",
+                "file": "MyNotes/2026-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-03-15 的出链列表"
+              "title": "2026-03-16 的出链列表"
             }
           },
           {
-            "id": "b7008218e87aa833",
+            "id": "0c2d2d7bdd776e52",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "4088ce97b941f82a",
+            "id": "17678b920eec1f28",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,36 +151,26 @@
             }
           },
           {
-            "id": "22c687ef6fe871e0",
+            "id": "b7793d6e1ea525da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-03-15.md",
+                "file": "MyNotes/2026-03-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-15 的大纲"
-            }
-          },
-          {
-            "id": "d6a546a9f032f478",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "2026-03-16 的大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,16 +180,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "f85d5454774f58da",
+  "active": "26d0e45adcf0c8f6",
   "lastOpenFiles": [
-    "2026-03-16.md",
-    "2026-03-15.md",
-    "未命名.base",
-    "欢迎.md",
-    "2026_03_15.md"
+    "MyNotes/2026-03-16.md"
   ]
 }
